@@ -1,0 +1,2 @@
+- The individual pages are on the local repository on desktop due to Git file size limitations
+- The archive contains all pages except "Building Flows in Agentic Systems (Part B)" to reduce the archive size and make it under Git file size limit

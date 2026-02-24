@@ -1,0 +1,4 @@
+- The individual pages are on the local repository on desktop due to Git file size limitations
+- The archive contains all pages except the following pages to reduce the archive size and make it under Git file size limit
+-- A Crash Course on Building RAG Systems - Part 4 (With Implementation)
+-- A Crash Course on Building RAG Systems - Part 5 (With Implementation)
